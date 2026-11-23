@@ -78,4 +78,4 @@ Aplicar, em um projeto integrado, os conhecimentos de desenvolvimento Front-End 
 
 ## 👨‍💻 Desenvolvimento
 
-Projeto acadêmico desenvolvido em equipe por estudantes do curso de *Análise e Desenvolvimento de Sistemas (ADS)*
+Projeto acadêmico desenvolvido em equipe por estudantes do curso *Análise e Desenvolvimento de Sistemas (ADS)*
